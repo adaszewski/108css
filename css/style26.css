@@ -1,0 +1,12 @@
+
+p{
+    height: 100px;
+    width: 100px;
+    background-color:red ;
+}
+.wazny{
+    background-color:blue;
+}
+.op{
+    opacity: 0.5;
+}

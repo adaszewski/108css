@@ -1,0 +1,30 @@
+body{
+    background-color:blue;
+    }
+h1{
+    background-color:chartreuse;
+}
+h2{
+    background-color: floralwhite;
+}
+p{
+    background-color:gold;
+}
+ol{
+    background-color: cornsilk;
+}
+.item1:{
+    color:chartreuse;
+}
+.item2{
+    color:chocolate;
+}
+.item3{
+    color:darkgreen;
+}
+.item4{
+    color:deeppink;
+}
+.item5{
+    color:orange;
+}

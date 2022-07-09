@@ -7,3 +7,6 @@ h3 {
 p {
     color: magenta;
 }
+h1 + h3 {
+    color:gold
+}

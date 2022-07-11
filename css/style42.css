@@ -1,0 +1,28 @@
+body {
+    background-color: blue;
+}
+
+h1 {
+    background-color: chartreuse;
+    color: crimson;
+    height: 50px;
+    width: 300px;
+}
+
+p {
+    background-color:darkgoldenrod;
+    color:blue;
+    height: 300px;
+    width: 300px;
+}
+
+
+.dodaj {
+    background-color: black;
+    color: white;
+}
+
+.usun {
+    background-color: red;
+    color: white;
+}

@@ -1,0 +1,25 @@
+body {
+    background-color: blue;
+    color: aliceblue;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div {
+    background-color: black;
+    color: aliceblue;
+    height: 180px;
+    width: 300px;
+    font-size: larger;
+    font-family: sans-serif;
+}
+
+button {
+    background-color: chartreuse;
+    color: red;
+    height: 50px;
+    width: 200px;
+    font-size: large;
+}
+
+<p>Dane:</p><p id="name"></p><p id="surname"></p><p id="phone"></p></div>
